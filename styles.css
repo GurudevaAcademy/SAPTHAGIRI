@@ -26,15 +26,16 @@ p{
 	font-size: 30px;
 	font-family: 'Raleway', sans-serif;
 }
-.achievements,.skills,.education,.contact,.website{
+.achievements,.skills,.education,.contact,.website,.certifications{
 		padding: 10px;
-	        background-image: url('sincerely-media-onLVa0nATFA-unsplash.jpg');
-	opacity: 80%;
-	margin: 0;
-}
+                background-color: #1DD3BD;
+
 		text-align: center;
 		font-family: 'Hind Siliguri', sans-serif;}
-.achievements{
+body{
+background -image:url('sincerely-media-onLVa0nATFA-unsplash.jpg');
+opacity: 40%;
+}.achievements{
 	text-align: center;
 }
 tr{
