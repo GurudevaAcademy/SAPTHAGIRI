@@ -39,12 +39,7 @@ p{
 body{
 	background-image: url('sincerely-media-onLVa0nATFA-unsplash.jpg');
 	opacity: 80%;
-	margin: 0;
-}
-body>a{
-	text-align: center;
-	background-color: #87D4C5;
-}
+	margin: 0;}
 .achievements{
 	text-align: center;
 }
