@@ -1,0 +1,98 @@
+h2{
+	color: #595238;
+	margin: 0;
+	text-align: center;
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+}
+.image{
+	border-radius: 50%;
+	width: 250px;
+}
+.profilesection{
+	text-align: center;
+	height: 100vh;
+	min-height: 500px;
+	padding-top: 25vh;
+	background-color: #F6AB6C;
+	background-image: url('nick-morrison-FHnnjk1Yj7Y-unsplash.jpg');
+}
+h1{
+	color: #204051;
+	font-size: 70px;
+	font-family: 'Fondamento',cursive;
+}
+p{
+	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+}
+.achievements,.skills,.education,.contact,.website,.certifications{
+		padding: 10px;
+		background-color: #1DD3BD;
+		text-align: center;
+		font-family: 'Hind Siliguri', sans-serif;
+
+}
+.btn{
+	background-color: brown;
+}
+body{
+	background-image: url('nick-morrison-FHnnjk1Yj7Y-unsplash.jpg');
+	opacity: 40%;
+	margin: 0;
+}
+body>a{
+	text-align: center;
+	background-color: #87D4C5;
+}
+.achievements{
+	text-align: center;
+}
+tr{
+	text-align: center;
+}
+
+div{
+	text-align: center;
+	align-content: center;
+}
+a{
+	text-decoration: none;
+	color: 
+}
+.fa{
+	padding: 20px;
+	font-size: 30px;
+	width: 250px;
+	height: 250px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50px;
+
+}
+.fa:hover{
+	opacity: 0.7;
+}
+.btn{
+	background-color: #87D4C5;
+}
+.fa-instagram{
+	width: 50px;
+	display: inline-block;
+	height: 50px;
+	text-align: center;
+	border-radius: 40px;
+	color: #fff;
+	font-size: 220px;
+	line-height: 250px;
+	vertical-align: middle;
+	background: #d6249f;
+	background: radial-gradient(circle at 30% 107%,#fdf497 0%,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285AEB 90%);
+	box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+}
+.first{
+			text-align: center;
+			width: 25%;
+			padding: 5px;
+			font-family: 'Roboto', sans-serif;
+		}
