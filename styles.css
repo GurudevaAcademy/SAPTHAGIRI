@@ -36,11 +36,8 @@ p{
 .btn{
 	background-color: brown;
 }
-body{
-	background-image: url('nick-morrison-FHnnjk1Yj7Y-unsplash.jpg');
-	opacity: 40%;
-	margin: 0;
-}
+
+	
 body>a{
 	text-align: center;
 	background-color: #87D4C5;
