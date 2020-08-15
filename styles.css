@@ -5,6 +5,9 @@ h2{
 	/*font-family: 'Pangolin', cursive;*/
 	font-family: 'PT Serif', serif;
 }
+h6{
+	font-family: 'Oxygen', sans-serif;
+}
 .img-fluid{
 	border-radius: 50%;
 	height: 50%;
