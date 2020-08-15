@@ -1,5 +1,5 @@
 h2{
-	color: #204051;
+	color: blue;
 	font-size: 50px;
 	/*font-family: 'Modern Antiqua', cursive;*/
 	/*font-family: 'Pangolin', cursive;*/
@@ -20,6 +20,7 @@ h2{
 }
 h3{
 	color: #56556E;
+	font-size: 20px;
 	font-family: 'Lemonada', cursive;
 }
 h4{
